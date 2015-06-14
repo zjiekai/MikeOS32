@@ -1,5 +1,5 @@
 ; ==================================================================
-; The Mike Operating System bootloader
+; The Mike Operating System bootloader 
 ; Copyright (C) 2006 - 2013 MikeOS Developers -- see doc/LICENSE.TXT
 ;
 ; Based on a free boot loader by E Dehling. It scans the FAT12
